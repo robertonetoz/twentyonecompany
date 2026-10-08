@@ -1,0 +1,18 @@
+FOTOS DAS UNIDADES
+
+Coloque as fotos na pasta da unidade e do tipo certo. O site monta a galeria sozinho.
+
+  u1 = Unidade 1, Santa Mônica
+  u2 = Unidade 2, Novo Mundo
+  u3 = Unidade 3, Pátio Sabiá
+
+  unidades/u1/fachada/     fotos da fachada
+  unidades/u1/aparelhos/   fotos das máquinas e do salão
+
+Formatos aceitos: .jpg, .jpeg, .png, .webp, .avif
+
+As fotos aparecem em ordem de nome de arquivo. Para escolher a ordem, numere:
+  01.jpg, 02.jpg, 03.jpg ...
+
+A primeira foto da fachada e as duas primeiras de aparelhos viram a prévia
+que aparece na página, no botão "Clique para ver as fotos da unidade".
